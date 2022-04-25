@@ -17,5 +17,5 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 ![totalemplyreplace](Pictures/totalemplyreplace.png)<br/>
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation fo Pewlett Hackard employees?
 
-- Yes, we have 72,458 employees to train the small 1,549 employees ready for mentorship. <br/>
+- Yes, we have 72,458 retirement-ready employees. Within this group, there are a sufficient number of qualified mentors in the departments to train the next generation of 1,549 employees. <br/>
 ![totalementorreplace](Pictures/totalmentorreplace.png)<br/>

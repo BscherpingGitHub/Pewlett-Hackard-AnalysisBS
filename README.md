@@ -11,5 +11,8 @@ We are to determine the number of retiring employees per title and identify empl
 
 ## Summary:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- There are 70,909 positions needing filled
+- There will be 72,458 positions needing filled. <br/>
+![totalemplyreplace](Pictures/totalemplyreplace.png)<br/>
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation fo Pewlett Hackard employees?
+- Yes, we have 72,458 employees to train the small 1,549 employees ready for mentorship. <br/>
+![totalementorreplace](Pictures/totalmentorreplace.png)<br/>
